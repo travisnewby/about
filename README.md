@@ -1,2 +1,2 @@
-# about
-About me and my work
+# Software Portfolio
+Hi. 👋 I'm Travis and this is my portfolio.
