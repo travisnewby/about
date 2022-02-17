@@ -1,8 +1,8 @@
 # Software Portfolio
-Hi. 👋 I'm Travis, and this is my portfolio.
+Hi. 👋 I'm Travis. I'm a long time technologist with a passion for developing useful, usable software. This is a tiny bit of my portfolio.
 
 ## Mobile Apps
-This is a small sample of the mobile apps I've built – or lead teams that built. 
+The last 10+ years of my career have been focused almost exclusively on building mobile apps (there was a cool kiosk and a bit of AWS tosssed in there as well). Here are a few examples.
 
 ### VA: Health and Benefits
 
