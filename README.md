@@ -4,6 +4,19 @@ Hi. 👋 I'm Travis, and this is my portfolio.
 ## Mobile Apps
 This is a small sample of the mobile apps I've built – or lead teams that built. 
 
+### VA: Health and Benefits
+
+[VA: Health and Benefits](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596?platform=iphone) is a 
+convenient place for Veterans to perform their most common tasks with VA.
+
+My role on the project – as mobile engineering lead in the Office of the CTO – consists of providing technical, 
+mobile, and design guidance to the contractor team building the product. I also perform VA-wide coordination and 
+help the team get stuff done across the organization.
+
+```
+Leadership, Problem Solving, Team Building
+```
+
 ### U.S. Army Career Navigator 
 
 [Career Navigator](https://apps.apple.com/us/app/u-s-army-career-navigator/id796509388?platform=iphone) is the U.S. Army's 
@@ -16,7 +29,7 @@ I was involved in every phase of Career Navigator, from concept to delivery. My 
 every line of code for the iOS app, leading the mobile team, and product owner on the contractor side of the house.
 
 ```
-Swift, Objective-C, Design, Augmented Reality, Rest API, Firebase, Google Analytics, Crashlytics
+Swift, Objective-C, Design, Augmented Reality, Rest API, Firebase, Google Analytics, Crashlytics, Leadership
 ```
 
 ### U.S. Army ASVAB Challenge
@@ -31,9 +44,5 @@ I was involved in every phase of ASVAB Challenge, from concept to delivery. My c
 line of code for the iOS app, leading the mobile team, and product owner on the contractor side of the house.
 
 ```
-Swift, Design, Firebase, Google Analytics, Crashlytics
+Swift, Design, Firebase, Google Analytics, Crashlytics, Leadership
 ```
-
-
-### Dam It, Beaver!
-A fun, tongue in cheek game.
