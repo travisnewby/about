@@ -10,7 +10,7 @@ The last 10+ years of my career have been focused almost exclusively on building
 convenient place for Veterans to perform their most common tasks with VA.
 
 My role on the project – as mobile engineering lead in the Office of the CTO – consists of providing technical, 
-mobile, and design guidance to the contractor team building the product. I also perform VA-wide coordination and 
+mobile, and team guidance to the contractor team building the product. I also perform VA-wide coordination and 
 help the team get stuff done across the organization.
 
 ```
