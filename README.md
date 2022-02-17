@@ -1,11 +1,13 @@
+# About Me
+Hi. 👋 I'm Travis. I'm a long time technologist with a passion for developing useful, usable software. 
+
 # Software Portfolio
-Hi. 👋 I'm Travis. I'm a long time technologist with a passion for developing useful, usable software. This is a tiny bit of my portfolio.
+This is a tiny bit of my portfolio.
 
 ## Mobile Apps
 The last 10+ years of my career have been focused almost exclusively on building mobile apps (there was a cool kiosk and a bit of AWS tosssed in there as well). Here are a few examples.
 
 ### VA: Health and Benefits
-
 [VA: Health and Benefits](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596?platform=iphone) is a 
 convenient place for Veterans to perform their most common tasks with VA.
 
@@ -18,7 +20,6 @@ Leadership, Problem Solving, Team Building
 ```
 
 ### U.S. Army Career Navigator 
-
 [Career Navigator](https://apps.apple.com/us/app/u-s-army-career-navigator/id796509388?platform=iphone) is the U.S. Army's 
 flagship career app. The purpose of Career Navigator is to allow folks interested in the Army to browse careers, educate 
 them about what the Army has to offer, and to let them decide when the time is right to contact a recruiter.
@@ -33,7 +34,6 @@ Swift, Objective-C, Design, Augmented Reality, Rest API, Firebase, Google Analyt
 ```
 
 ### U.S. Army ASVAB Challenge
-
 [ASVAB Challenge](https://apps.apple.com/us/app/u-s-army-asvab-challenge/id1496772113?platform=iphone) is designed to 
 help young people taking the ASVAB – and timed tests in general – get comfortable with the format of the test, 
 understand the kinds of questions that will be asked, and master taking a test under time pressure. 
